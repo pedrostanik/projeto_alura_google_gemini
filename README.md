@@ -1,3 +1,61 @@
+[ENGLISH]
+# project_alura_google_gemini
+Natural Disaster Management Project v1
+
+## Natural Disaster Management Chatbot with Google Gemini
+
+This project aims to develop an intelligent chatbot using Google Gemini to assist in natural disaster management, providing crucial information for prevention, evacuation route planning, impact mitigation, and economic impact analysis.
+
+### Features (V1):
+
+#### Natural Disaster Prevention:
+- Provides basic information about the main types of natural disasters that may occur in the user's region.
+- Presents prevention and preparation tips for each type of disaster.
+- Recommends safety measures for homes and businesses.
+
+#### Evacuation Route Assistance:
+- Integration with maps and the user's location to determine the safest evacuation route in case of an emergency.
+- Considers different disaster scenarios and offers alternative routes.
+- Allows sharing of the route with emergency contacts.
+
+#### Impact Mitigation:
+- Provides step-by-step instructions on how to act during and after a natural disaster.
+- Offers guidance on first aid, food safety, and access to support resources.
+- Provides emergency contact information and social assistance services.
+
+#### Economic Impacts:
+- Presents general information about the economic impacts of various types of disasters.
+- Offers resources to aid in economic recovery after a disaster.
+
+### Technologies Used:
+- **Google Gemini**: Advanced language model for natural language processing and generating intelligent responses.
+- **Location API**: Integration with location services to determine the user's position and chart evacuation routes.
+- **Database**: Storage of information about natural disasters, prevention measures, evacuation routes, and support resources.
+
+### Next Steps (V2):
+
+#### Natural Disaster Forecasting:
+- Implementation of Machine Learning models for predicting disasters based on historical and real-time data.
+- Use of labeled data to train more accurate forecasting models.
+
+#### Personalization:
+- Customization of the chatbot to meet the specific needs of different regions and types of users.
+- Creation of personalized profiles for families, businesses, and government agencies.
+
+#### IoT Integration:
+- Connection with IoT sensors and devices for monitoring weather conditions and early detection of disasters.
+
+### How to Contribute:
+
+- **Developers**: Code contributions are welcome! Help enhance the chatbot’s features, integrate new APIs, and develop machine learning models.
+- **Natural Disaster Experts**: Share your knowledge and expertise to enrich the chatbot's content with accurate and relevant information.
+- **Testers**: Help identify bugs and improve the usability of the chatbot by testing its features and providing feedback.
+
+Together, we can build a powerful chatbot that assists in natural disaster prevention and management, saving lives and minimizing impacts.
+
+
+
+[PORTUGUÊS]
 # projeto_alura_google_gemini
 Projeto de gerenciamento de desastres naturais v1
 
